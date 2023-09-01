@@ -1,6 +1,10 @@
 
 make -f misc/GNUmakefile release
 
+
+
+
+
 the required tools:
 *) xsltproc to build CHANGES,
 *) xslscript.pl ( http://hg.nginx.org/xslscript ) to build XSLTs
